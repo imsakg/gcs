@@ -1,6 +1,6 @@
-# GCS
+# SAFIR
 
-Ground Control Station for Unmanned Devices that uses [Mavlink](https://mavlink.io/en/).
+SAFIR is a GCS (Ground Control Station) for unmanned devices that use [MAVLink](https://mavlink.io/en/).
 
 ## Showcase
 
